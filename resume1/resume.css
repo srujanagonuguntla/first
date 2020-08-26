@@ -1,0 +1,45 @@
+h2{
+	color: #308fbf;
+}
+body{
+	font-size: 20px;
+}
+.row{
+	padding-bottom: 28px;
+}
+.pr{
+
+    background: #cc2165;
+    color: white;
+
+}
+.phno{
+	margin-right: 141px;
+}
+li{
+	font-size: 20px;
+
+}
+.col-md-4{
+	text-align: end;
+}
+.img{
+
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 2px,black;
+    border-style: solid;
+    
+    margin-left: 60px;
+    margin-top: 8px;
+
+
+}
+.name{
+	margin-top: 40px;
+}
+.email{
+	margin-top: 40px;
+    margin-right: 88px;
+}
