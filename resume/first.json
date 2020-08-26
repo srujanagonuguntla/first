@@ -1,0 +1,16 @@
+{
+	"details":{
+		"name":"Gonuguntla V L Srujana",
+		"email":"srujanagonuguntla@gmail.com",
+		"phno":6302068090,
+		"object":"To explore the new areas and work in a dynamic stable organization.Work for an organization which provides me the opportunity to improve my skills and knowledge to growth along with the organization objective",
+		"edu":[{"name":"Bhashyam Public School","year":"2015-2016","per":"98%"},
+			{"name":"Shri Chaitanya jr college","year":"2016-2018","per":"96%"},
+			{"name":"Shri Vishnu engineering college for women","year":"2018-2022","per":"95%"}
+		],
+		"skills":["c","c++","java","mysql","reactjs", "nodejs"],
+		"soft":["playing Basketball","Active in Group Discussion","Leads my team"]
+
+
+	}
+}
